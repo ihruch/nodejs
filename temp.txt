@@ -1,0 +1,16 @@
+{
+    "_id": {
+        "$oid": "5c1ab106dac1cd41bc966264"
+    },
+    "author": {
+        "id": 1,
+        "name": "Jacob Thornton",
+        "avatar": "/assets/img/avatar-mdo.png"
+    },
+    "publicationDate": {
+        "$date": "2018-12-19T20:58:46.978Z"
+    },
+    "text": "2222222222222222222222",
+    "picture": "https://via.placeholder.com/346x335.png",
+    "__v": 0
+}
